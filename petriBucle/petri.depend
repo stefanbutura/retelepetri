@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1465502028 source:c:\users\stefi\c++\petri\main.cpp
+	<iostream>
+	<fstream>
+	<Eigen/Dense>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1465504651 source:c:\users\stefi\c++\petribucli\main.cpp
+	<iostream>
+	<fstream>
+	<Eigen/Dense>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
